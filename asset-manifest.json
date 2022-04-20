@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Frontend-Scaleflex/static/css/main.0146daf6.css",
+    "main.js": "/Frontend-Scaleflex/static/js/main.7318db75.js",
+    "static/js/787.62c12a10.chunk.js": "/Frontend-Scaleflex/static/js/787.62c12a10.chunk.js",
+    "index.html": "/Frontend-Scaleflex/index.html",
+    "main.0146daf6.css.map": "/Frontend-Scaleflex/static/css/main.0146daf6.css.map",
+    "main.7318db75.js.map": "/Frontend-Scaleflex/static/js/main.7318db75.js.map",
+    "787.62c12a10.chunk.js.map": "/Frontend-Scaleflex/static/js/787.62c12a10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0146daf6.css",
+    "static/js/main.7318db75.js"
+  ]
+}
